@@ -8,7 +8,7 @@
 - 💚 Would Love to: Make applications that helps people 🧗‍♂️
 - 🌱 Current focus: Make my clients happy with beautiful designs
 - 🥅 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love playing FPS Games 🥰
+- ⚡ Fun facts: Loves travelling and playing FPS Games 
 
 <a target="_blank" href="http://naeemqaswar.me"><img src="assets/github-intro.gif" align="right" width="250"></a>
 
