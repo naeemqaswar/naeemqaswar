@@ -4,7 +4,7 @@
 ## I'm a React-Native & Flutter developer
 
 - 👉 Self Taught developer and a Tech Enthusiast
-- man_technologist  For my terminal, I user Ubuntu 18.04 running on WSL.
+- 👨‍💻 Works on MacOS, Gaming on Windows and Terminal on Ubuntu
 - 💚 Would Love to: Make applications that helps people 🧗‍♂️
 - 🌱 Current focus: Make my clients happy with beautiful designs
 - 🥅 Goals: Contribute more to Open Source projects
