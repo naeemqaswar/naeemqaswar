@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Naeem <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></h1>
+  <h1>Hi, I'm Naeem <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 </div>
  
 <p align='center'> 
@@ -9,8 +9,6 @@
 <a target="_blank" href="https://instagram.com/naeemqaswar" alt="Instagram" title="Instagram"><img height="30" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-128.png"></a>&nbsp;&nbsp;
 
 <div align="center"><h3>💻 Software Engineer | 🌏 Lahore, Pakistan</h3></div>
-
-
 
 <a target="_blank" href="http://naeemqaswar.me"><img src="assets/github-intro.gif" align="right" width="250"></a>
 
@@ -31,6 +29,10 @@
 <a align="left" target="_blank" href="https://redux.js.org/" alt="Redux" title="Redux"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"></a>&nbsp;
 <a align="left" target="_blank" href="https://www.typescriptlang.org/" alt="Typescript" title="Typescript"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></a>&nbsp;
 <a align="left" target="_blank" href="https://www.linux.org/" alt="Linux" title="Linux"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></a>&nbsp;
+
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=naeemqaswar&show_icons=true&count_private=true)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=naeemqaswar&layout=compact)
 
 [website]: http://naeemqaswar.me
 [twitter]: https://twitter.com/_NaeemQaswar
