@@ -30,9 +30,8 @@
 <a align="left" target="_blank" href="https://www.typescriptlang.org/" alt="Typescript" title="Typescript"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></a>&nbsp;
 <a align="left" target="_blank" href="https://www.linux.org/" alt="Linux" title="Linux"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></a>&nbsp;
 
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=naeemqaswar&show_icons=true&count_private=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=naeemqaswar&layout=compact)
+![Github stats](https://github-readme-stats.vercel.app/api?username=naeemqaswar&show_icons=true&count_private=true)
 
 [website]: http://naeemqaswar.me
 [twitter]: https://twitter.com/_NaeemQaswar
