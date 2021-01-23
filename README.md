@@ -15,7 +15,7 @@
 ### About me 
 
 - 👉 Self Taught developer and a Tech Enthusiast
-- 🥷🏼 Currently working on React Native & Flutter
+- 🦸‍♂️ Doing wonders in React Native & Flutter
 - 🖥 Dev on Mac, Gaming on Windows and Terminal on Ubuntu
 - 💚 Love to: Make applications that helps people 🧗‍♂️
 - 🌱 Focus: Make my clients happy with beautiful designs
@@ -28,7 +28,10 @@
 <a align="left" target="_blank" href="https://flutter.dev/" alt="Flutter" title="Flutter"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg"></a>&nbsp;
 <a align="left" target="_blank" href="https://redux.js.org/" alt="Redux" title="Redux"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"></a>&nbsp;
 <a align="left" target="_blank" href="https://www.typescriptlang.org/" alt="Typescript" title="Typescript"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></a>&nbsp;
+<a align="left" target="_blank" href="https://laravel.com/" alt="Laravel" title="Laravel"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg"></a>&nbsp;
 <a align="left" target="_blank" href="https://www.linux.org/" alt="Linux" title="Linux"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></a>&nbsp;
+
+<br>
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=naeemqaswar&layout=compact)
 ![Github stats](https://github-readme-stats.vercel.app/api?username=naeemqaswar&show_icons=true&count_private=true)
