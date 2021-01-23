@@ -10,6 +10,10 @@
 
 <div align="center"><h4>💻 Software Engineer | 🌏 Lahore, Pakistan</h4></div>
 
+
+
+<a target="_blank" href="http://naeemqaswar.me"><img src="assets/github-intro.gif" align="right" width="250"></a>
+
 ### About me 
 
 - 👉 Self Taught developer and a Tech Enthusiast
@@ -19,16 +23,14 @@
 - 🌱 Focus: Make my clients happy with beautiful designs
 - 🥅 Goals: Contribute more to Open Source projects
 
-<a target="_blank" href="http://naeemqaswar.me"><img src="assets/github-intro.gif" align="right" width="250"></a>
-
 ### Languages and Tools:
 
-<a align="left" target="_blank" href="#" alt="CSS" title="CSS"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>&nbsp;
-<a align="left" target="_blank" href="#" alt="React" title="React & React Native"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a>&nbsp;
-<a align="left" target="_blank" href="#" alt="Flutter" title="Flutter"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg"></a>&nbsp;
-<a align="left" target="_blank" href="#" alt="Redux" title="Redux"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"></a>&nbsp;
-<a align="left" target="_blank" href="#" alt="npm" title="npm"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></a>&nbsp;
-<a align="left" target="_blank" href="#" alt="Linux" title="Linux"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></a>&nbsp;
+<a align="left" target="_blank" href="https://www.javascript.com/" alt="CSS" title="CSS"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>&nbsp;
+<a align="left" target="_blank" href="https://reactnative.dev/" alt="React" title="React & React Native"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a>&nbsp;
+<a align="left" target="_blank" href="https://flutter.dev/" alt="Flutter" title="Flutter"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg"></a>&nbsp;
+<a align="left" target="_blank" href="https://redux.js.org/" alt="Redux" title="Redux"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"></a>&nbsp;
+<a align="left" target="_blank" href="https://www.typescriptlang.org/" alt="npm" title="npm"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></a>&nbsp;
+<a align="left" target="_blank" href="https://www.linux.org/" alt="Linux" title="Linux"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></a>&nbsp;
 
 [website]: http://naeemqaswar.me
 [twitter]: https://twitter.com/_NaeemQaswar
