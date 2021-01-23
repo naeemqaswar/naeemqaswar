@@ -23,14 +23,12 @@
 
 ### Languages and Tools:
 
-<a align="left" target="_blank" href="#" alt="CSS" title="CSS"><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>&nbsp;
-<a align="left" target="_blank" href="#" alt="React" title="React & React Native"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a>&nbsp;
-<a align="left" target="_blank" href="#" alt="Flutter" title="Flutter"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg"></a>&nbsp;
-<a align="left" target="_blank" href="#" alt="Redux" title="Redux"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"></a>&nbsp;
-<a align="left" target="_blank" href="#" alt="npm" title="npm"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></a>&nbsp;
-<a align="left" target="_blank" href="#" alt="Git" title="Git"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain-wordmark.svg"></a>&nbsp;
-<a align="left" target="_blank" href="#" alt="Npm" title="Npm"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg"></a>&nbsp;
-<a align="left" target="_blank" href="#" alt="Linux" title="Linux"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></a>&nbsp;
+<a align="left" target="_blank" href="#" alt="CSS" title="CSS"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>&nbsp;
+<a align="left" target="_blank" href="#" alt="React" title="React & React Native"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a>&nbsp;
+<a align="left" target="_blank" href="#" alt="Flutter" title="Flutter"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg"></a>&nbsp;
+<a align="left" target="_blank" href="#" alt="Redux" title="Redux"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"></a>&nbsp;
+<a align="left" target="_blank" href="#" alt="npm" title="npm"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></a>&nbsp;
+<a align="left" target="_blank" href="#" alt="Linux" title="Linux"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></a>&nbsp;
 
 [website]: http://naeemqaswar.me
 [twitter]: https://twitter.com/_NaeemQaswar
