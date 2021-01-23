@@ -1,40 +1,36 @@
-<a target="_blank" href="http://naeemqaswar.me"><img src="assets/hi.gif" align="right" width="250"></a>
-<h1> Hello World, I'm Naeem 👋</h1>
+<div align="center">
+  <h1>Hi, I'm Naeem <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+</div>
+ 
+<p align='center'> 
+<a target="_blank" href="http://naeemqaswar.me" alt="Profile" title="Profile Website"><img height="30" src="https://image.flaticon.com/icons/png/512/607/607421.png"></a>&nbsp;&nbsp;
+<a target="_blank" href="https://linkedin.com/in/naeemqaswar" alt="LinkedIn" title="LinkedIn"><img height="30" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png"></a>&nbsp;&nbsp;
+<a target="_blank" href="https://twitter.com/_NaeemQaswar" alt="Twitter" title="Twitter"><img height="30" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-128.png"></a>&nbsp;&nbsp;
+<a target="_blank" href="https://instagram.com/naeemqaswar" alt="Instagram" title="Instagram"><img height="30" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-128.png"></a>&nbsp;&nbsp;
 
-## I'm a React-Native & Flutter developer
+<div align="center"><h4>💻 Software Engineer | 🌏 Lahore, Pakistan</h4></div>
+
+### About me 
 
 - 👉 Self Taught developer and a Tech Enthusiast
-- 👨‍💻 Works on MacOS, Gaming on Windows and Terminal on Ubuntu
-- 💚 Would Love to: Make applications that helps people 🧗‍♂️
-- 🌱 Current focus: Make my clients happy with beautiful designs
+- 🥷🏼 Currently working on React Native & Flutter
+- 🖥 Dev on Mac, Gaming on Windows and Terminal on Ubuntu
+- 💚 Love to: Make applications that helps people 🧗‍♂️
+- 🌱 Focus: Make my clients happy with beautiful designs
 - 🥅 Goals: Contribute more to Open Source projects
-- ⚡ Fun facts: Loves travelling and playing FPS Games 
 
 <a target="_blank" href="http://naeemqaswar.me"><img src="assets/github-intro.gif" align="right" width="250"></a>
 
-### Connect with me:
-
-<a href="https://linkedin.com/in/naeemqaswar"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
-[<img align="left" alt="naeemqaswar.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="@_NaeemQaswar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="naeemqaswar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-
 ### Languages and Tools:
 
-[<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />][myWebsiteLink]
-[<img align="left" alt="WordPress" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" />][myWebsiteLink]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][myWebsiteLink]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][myWebsiteLink]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][myWebsiteLink]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][myWebsiteLink]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][myWebsiteLink]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][myWebsiteLink]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][myWebsiteLink]
-
-<br>
-<hr>
+<a align="left" target="_blank" href="#" alt="CSS" title="CSS"><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>&nbsp;
+<a align="left" target="_blank" href="#" alt="React" title="React & React Native"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a>&nbsp;
+<a align="left" target="_blank" href="#" alt="Flutter" title="Flutter"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg"></a>&nbsp;
+<a align="left" target="_blank" href="#" alt="Redux" title="Redux"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"></a>&nbsp;
+<a align="left" target="_blank" href="#" alt="npm" title="npm"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></a>&nbsp;
+<a align="left" target="_blank" href="#" alt="Git" title="Git"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain-wordmark.svg"></a>&nbsp;
+<a align="left" target="_blank" href="#" alt="Npm" title="Npm"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg"></a>&nbsp;
+<a align="left" target="_blank" href="#" alt="Linux" title="Linux"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></a>&nbsp;
 
 [website]: http://naeemqaswar.me
 [twitter]: https://twitter.com/_NaeemQaswar
