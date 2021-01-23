@@ -25,11 +25,11 @@
 
 ### Languages and Tools:
 
-<a align="left" target="_blank" href="https://www.javascript.com/" alt="CSS" title="CSS"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>&nbsp;
+<a align="left" target="_blank" href="https://www.javascript.com/" alt="Javascript" title="Javascript"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>&nbsp;
 <a align="left" target="_blank" href="https://reactnative.dev/" alt="React" title="React & React Native"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a>&nbsp;
 <a align="left" target="_blank" href="https://flutter.dev/" alt="Flutter" title="Flutter"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg"></a>&nbsp;
 <a align="left" target="_blank" href="https://redux.js.org/" alt="Redux" title="Redux"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"></a>&nbsp;
-<a align="left" target="_blank" href="https://www.typescriptlang.org/" alt="npm" title="npm"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></a>&nbsp;
+<a align="left" target="_blank" href="https://www.typescriptlang.org/" alt="Typescript" title="Typescript"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></a>&nbsp;
 <a align="left" target="_blank" href="https://www.linux.org/" alt="Linux" title="Linux"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></a>&nbsp;
 
 [website]: http://naeemqaswar.me
