@@ -12,7 +12,7 @@
 
 <a target="_blank" href="http://naeemqaswar.me"><img src="assets/github-intro.gif" align="right" width="250"></a>
 
-### About me 
+### About me
 
 - 👉 Self Taught developer and a Tech Enthusiast
 - 🦸‍♂️ Doing wonders in React Native & Flutter
@@ -21,7 +21,7 @@
 - 🌱 Focus: Make my clients happy with beautiful designs
 - 🥅 Goals: Contribute more to Open Source projects
 
-### Languages and Tools:
+### Languages and Tools
 
 <a align="left" target="_blank" href="https://www.javascript.com/" alt="Javascript" title="Javascript"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>&nbsp;
 <a align="left" target="_blank" href="https://reactnative.dev/" alt="React" title="React & React Native"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a>&nbsp;
