@@ -10,7 +10,7 @@
 
 <div align="center"><h3>💻 Software Engineer | 🌏 Lahore, Pakistan</h3></div>
 
-<a target="_blank" href="http://naeemqaswar.me"><img src="assets/work.gif" align="right" width="200"></a>
+<a target="_blank" href="http://naeemqaswar.me"><img src="assets/work.gif" align="right" width="300"></a>
 
 ### About me
 
