@@ -36,8 +36,8 @@
 [![Twitter: _NaeemQaswar](https://img.shields.io/twitter/follow/naeemqaswar?style=social)](https://twitter.com/_naeemqaswar)
 [![website](https://img.shields.io/badge/PortfolioWebsite-naeemqaswar.me-2648ff?style=flat-square&logo=google-chrome)](https://naeemqaswar.me/)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=naeemqaswar&show_icons=true&count_private=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=iampawan&theme=light&hide_langs_below=1)
+![Github stats](https://github-readme-stats.vercel.app/api?username=naeemqaswar&show_icons=true&count_private=true)
 
 [website]: http://naeemqaswar.me
 [twitter]: https://twitter.com/_NaeemQaswar
