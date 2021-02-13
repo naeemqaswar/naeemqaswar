@@ -36,8 +36,6 @@
 [![Twitter: _NaeemQaswar](https://img.shields.io/twitter/follow/naeemqaswar?style=social)](https://twitter.com/_naeemqaswar)
 [![website](https://img.shields.io/badge/PortfolioWebsite-naeemqaswar.me-2648ff?style=flat-square&logo=google-chrome)](https://naeemqaswar.me/)
 
-<br>
-
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=naeemqaswar&layout=compact)
 ![Github stats](https://github-readme-stats.vercel.app/api?username=naeemqaswar&show_icons=true&count_private=true)
 
