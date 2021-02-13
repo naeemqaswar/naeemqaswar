@@ -23,11 +23,6 @@
 
 <br>
 
-[![GitHub Views](https://komarev.com/ghpvc/?username=naeemqaswar&label=Views&color=blue&style=plastic)](https://komarev.com/ghpvc/?username=naeemqaswar&label=Views&color=blue&style=plastic)
-[![Linkedin: naeemqaswar](https://img.shields.io/badge/-naeemqaswar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/naeemqaswar/)](https://www.linkedin.com/in/naeemqaswar/)
-[![Twitter: _NaeemQaswar](https://img.shields.io/twitter/follow/naeemqaswar?style=social)](https://twitter.com/_naeemqaswar)
-[![website](https://img.shields.io/badge/PortfolioWebsite-naeemqaswar.me-2648ff?style=flat-square&logo=google-chrome)](https://naeemqaswar.me/)
-
 ### Languages and Tools
 
 <a align="left" target="_blank" href="https://www.javascript.com/" alt="Javascript" title="Javascript"><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>&nbsp;
@@ -37,6 +32,13 @@
 <a align="left" target="_blank" href="https://www.typescriptlang.org/" alt="Typescript" title="Typescript"><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></a>&nbsp;
 <a align="left" target="_blank" href="https://laravel.com/" alt="Laravel" title="Laravel"><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg"></a>&nbsp;
 <a align="left" target="_blank" href="https://www.linux.org/" alt="Linux" title="Linux"><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></a>&nbsp;
+
+<br>
+
+[![GitHub Views](https://komarev.com/ghpvc/?username=naeemqaswar&label=Views&color=blue&style=plastic)](https://komarev.com/ghpvc/?username=naeemqaswar&label=Views&color=blue&style=plastic)
+[![Linkedin: naeemqaswar](https://img.shields.io/badge/-naeemqaswar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/naeemqaswar/)](https://www.linkedin.com/in/naeemqaswar/)
+[![Twitter: _NaeemQaswar](https://img.shields.io/twitter/follow/naeemqaswar?style=social)](https://twitter.com/_naeemqaswar)
+[![website](https://img.shields.io/badge/PortfolioWebsite-naeemqaswar.me-2648ff?style=flat-square&logo=google-chrome)](https://naeemqaswar.me/)
 
 <br>
 
