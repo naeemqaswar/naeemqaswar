@@ -21,6 +21,13 @@
 - 🌱 Focus: Make my clients happy with beautiful designs
 - 🥅 Goals: Contribute more to Open Source projects
 
+<br>
+
+[![GitHub Views](https://komarev.com/ghpvc/?username=naeemqaswar&label=Views&color=blue&style=plastic)](https://komarev.com/ghpvc/?username=naeemqaswar&label=Views&color=blue&style=plastic)
+[![Linkedin: naeemqaswar](https://img.shields.io/badge/-naeemqaswar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/naeemqaswar/)](https://www.linkedin.com/in/naeemqaswar/)
+[![Twitter: _NaeemQaswar](https://img.shields.io/twitter/follow/naeemqaswar?style=social)](https://twitter.com/_naeemqaswar)
+[![website](https://img.shields.io/badge/PortfolioWebsite-naeemqaswar.me-2648ff?style=flat-square&logo=google-chrome)](https://naeemqaswar.me/)
+
 ### Languages and Tools
 
 <a align="left" target="_blank" href="https://www.javascript.com/" alt="Javascript" title="Javascript"><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>&nbsp;
