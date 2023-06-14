@@ -34,10 +34,12 @@
 <!-- [![GitHub Views](https://komarev.com/ghpvc/?username=naeemqaswar&label=Views&color=blue&style=plastic)](https://komarev.com/ghpvc/?username=naeemqaswar&label=Views&color=blue&style=plastic)
 [![Linkedin: naeemqaswar](https://img.shields.io/badge/-naeemqaswar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/naeemqaswar/)](https://www.linkedin.com/in/naeemqaswar/)
 [![Twitter: _NaeemQaswar](https://img.shields.io/twitter/follow/naeemqaswar?style=social)](https://twitter.com/_naeemqaswar)
-[![website](https://img.shields.io/badge/PortfolioWebsite-naeemqaswar.me-2648ff?style=flat-square&logo=google-chrome)](https://naeemqaswar.me/) -->
+[![website](https://img.shields.io/badge/Portfol=ioWebsite-naeemqaswar.me-2648ff?style=flat-square&logo=google-chrome)](https://naeemqaswar.me/) -->
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=naeemqaswar&theme=light&hide_langs_below=1)
 ![Github stats](https://github-readme-stats.vercel.app/api?username=naeemqaswar&show_icons=true&count_private=true)
+
+<img src="https://komarev.com/ghpvc/?username=naeemqaswar&style=flat-square&color=yellow" alt="" width="15%" height="15%"/>
 
 [website]: http://naeemqaswar.me
 [twitter]: https://twitter.com/_NaeemQaswar
