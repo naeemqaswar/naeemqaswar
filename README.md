@@ -35,8 +35,14 @@
 [![Twitter: NaeemQaswar](https://img.shields.io/twitter/follow/naeemqaswar?style=social)](https://twitter.com/_naeemqaswar)
 [![website](https://img.shields.io/badge/Portfolio-naeemqaswar.me-2648ff?style=flat-square&logo=google-chrome)](https://naeemqaswar.me/)
 
+### Statistics
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=naeemqaswar&theme=radical&show_icons=true&count_private=true&rank_icon=github&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)&nbsp;&nbsp;&nbsp;&nbsp;
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=naeemqaswar&theme=radical&hide_progress=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
+### Support Me
+
+<a href="https://www.buymeacoffee.com/naeemqaswar" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
 [website]: http://naeemqaswar.me
 [twitter]: https://twitter.com/_NaeemQaswar
